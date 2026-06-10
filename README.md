@@ -6,5 +6,5 @@ in order to run the code you need to download the datasets which are train.csv f
 ## link for the train.scv file approx size 500Mb-
 https://s3.amazonaws.com/google-landmark/metadata/train.csv
 
-## link for the images folder-
+## link for the images folder approx size 1GB-
 https://s3.amazonaws.com/google-landmark/test/images_000.tar
